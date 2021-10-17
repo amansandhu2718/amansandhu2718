@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
-A 24 Y/O Software🌈 and Web developer from India. I'm passionate about Full-Stack Web Development. I likes to Automate things. I Love Digital Designing Using Adobe photoshop , illustrator and XD. Currently Learning Data Structures and Algorithms using JAVA language. 
+A 24 Y/O Computer Science🌈 Student and Web developer from India. I'm passionate about Full-Stack Web Development. I likes to Automate things. I Love Digital Designing Using Adobe photoshop , illustrator and XD. Currently Learning Data Structures and Algorithms using JAVA language. 
 
 ![age](https://img.shields.io/badge/Age-24-blue)
 ![living](https://img.shields.io/badge/Living-Delhi-3c9)
