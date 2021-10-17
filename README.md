@@ -11,7 +11,7 @@ A 24 Y/O Software🌈 and Web developer from India. I'm passionate about Full-St
 ![focus](https://img.shields.io/badge/Current_focus-Data_Structures_(JAVA)-brightgreen)
 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/77589604/137649070-8a873682-5e64-484d-9aa8-2eee08ceaf6c.png" />
 
 - 📚 I’m currently learning JAVA and React Js.
 - 👨🏼‍🤝‍👨🏻 I’m looking to collaborate on Basic Web Development Projects.
