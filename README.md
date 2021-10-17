@@ -4,11 +4,10 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
-A 24 Y/O Software🌈 and Web developer from India. I'm passionate about Full-Stack Web Development.I also like automating things. Currently Learning Data Structures And Algorithms Using JAVA language. 
+A 24 Y/O Software🌈 and Web developer from India. I'm passionate about Full-Stack Web Development. I also like automating things. Currently Learning Data Structures And Algorithms Using JAVA language. 
 
 ![age](https://img.shields.io/badge/Age-24-blue)
 ![living](https://img.shields.io/badge/Living-Delhi-3c9)
-
 ![focus](https://img.shields.io/badge/Current_focus-Data_Structures_(JAVA)-brightgreen)
 
 
@@ -16,7 +15,7 @@ A 24 Y/O Software🌈 and Web developer from India. I'm passionate about Full-St
 
 - 🌱 I’m currently learning JAVA and ReactJs
 - 👯 I’m looking to collaborate on Basic Web Development Projects.
-- 📫 How to reach me: You can follow me on [Instagram](https://www.instagram.com/aman.sandhu_) 
+- 📫 How to reach me: You can DM me on [Instagram](https://www.instagram.com/aman.sandhu_) or you can Email me at amansandhu2718@gmail.com
 - 😄 Pronouns: He/ Him/ His
 <br />
 
