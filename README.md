@@ -23,8 +23,8 @@ A 24 Y/O Software🌈 and Web developer from India. I'm passionate about Full-St
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-<img src=" https://user-images.githubusercontent.com/77589604/137648503-d6b02c52-9822-4077-b23b-cc5849b0dc35.png" height="60" width="60"/> 
-<img src=" https://user-images.githubusercontent.com/77589604/137648646-fb24afbb-73f0-4ec0-9e9a-d8dc0a2caf00.png" height="60" width="60"/> 
+ <img src="https://user-images.githubusercontent.com/77589604/137648940-4e961176-46f2-424c-8075-d49f0f0606e8.png" height="60" width="60"/> 
+<img src="https://user-images.githubusercontent.com/77589604/137648947-37a9d2af-c85d-44aa-a62a-2e7128eb2749.png" height="60" width="60"/> 
 <img src="https://user-images.githubusercontent.com/77589604/137648662-59ea5ea0-8444-4f6c-9a58-6619a8a9beea.png" height="60" width="60"/> 
 <img src="https://user-images.githubusercontent.com/77589604/137648692-227ed266-5567-49d7-90f1-6a28e8494039.png" height="60" width="60"/> 
 <img src="https://user-images.githubusercontent.com/77589604/137648722-0d59d13e-c30d-4ebe-8e0f-f7507aa4a00a.png" height="60" width="60"/> 
