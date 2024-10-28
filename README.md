@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Amandeep Singh   </h1>
 
 <h3 align="center">I'm a Game Developer and Web Developer from India ❤</h3>
-  
-A 24 Y/O Game🌈 and Web developer from India. I'm passionate about Full-Stack Web Development And Game Development. I likes to Automate things. I Love Digital Designing Using Adobe photoshop , illustrator and XD. Currently Learning Data Structures and Algorithms using JAVA language. 
+ I'm passionate about Full-Stack Web Development And Game Development. I likes to Automate things. I Love Digital Designing Using Adobe photoshop , illustrator and XD. Currently Learning Data Structures and Algorithms using JAVA language. 
 
 ![age](https://img.shields.io/badge/Age-24-blue)
 ![living](https://img.shields.io/badge/Living-Delhi-3c9)
