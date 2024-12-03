@@ -3,7 +3,8 @@
 <h3 align="center">I'm a Game Developer from India ❤ , Welcome to My Dev Playground! 🚀</h3><br>
 
 Hey there! I’m Amandeep Singh, a Delhi-based game developer with a passion for crafting exciting worlds and memorable gaming experiences using Cocos Creator.
-</br>
+
+
 ✨ What I Do:
 
 Bring creative ideas to life through code and design.
