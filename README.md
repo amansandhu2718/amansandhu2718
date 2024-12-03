@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Amandeep Singh   </h1>
 
 <h3 align="center">I'm a Game Developer from India ❤</h3>
-<h3 align="center">Welcome to My Dev Playground! 🚀</h3>h3
+<h3 align="center">Welcome to My Dev Playground! 🚀</h3><br>
 Hey there! I’m Amandeep Singh, a Delhi-based game developer with a passion for crafting exciting worlds and memorable gaming experiences using Cocos Creator.
-
+<br>
 ✨ What I Do:
 
 Bring creative ideas to life through code and design.
