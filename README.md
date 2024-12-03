@@ -1,7 +1,24 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Amandeep Singh   </h1>
 
-<h3 align="center">I'm a Game Developer and Web Developer from India ❤</h3>
- I'm passionate about Full-Stack Web Development And Game Development. I likes to Automate things. I Love Digital Designing Using Adobe photoshop , illustrator and XD. Currently Learning Data Structures and Algorithms using JAVA language. 
+<h3 align="center">I'm a Game Developer from India ❤</h3>
+<h3 align="center">Welcome to My Dev Playground! 🚀</h3>h3
+Hey there! I’m Amandeep Singh, a Delhi-based game developer with a passion for crafting exciting worlds and memorable gaming experiences using Cocos Creator.
+
+✨ What I Do:
+
+Bring creative ideas to life through code and design.
+Build immersive games that are as fun to play as they are to create.
+Constantly experiment with new tools, tech, and mechanics to level up my craft.
+
+💡 What Drives Me:
+The challenge of solving complex problems, the thrill of seeing players enjoy my work, and the endless possibilities in the world of game development.
+
+🌟 On This GitHub:
+You’ll find my latest projects, experiments, and game prototypes. Whether it’s a quirky indie concept or a polished interactive experience, this is where the magic happens!
+
+💬 Let’s Collaborate!
+I’m always up for connecting with fellow developers, artists, and creators. Got an idea or a project in mind? Let’s make it happen!
+
 
 ![age](https://img.shields.io/badge/Age-24-blue)
 ![living](https://img.shields.io/badge/Living-Delhi-3c9)
@@ -10,8 +27,6 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/77589604/137649217-81b54b1e-d61a-4cf2-be4b-3cd35b58ca9e.png" />
 
-- 📚 I’m currently learning Data Structures and Algorithms.
-- 👨🏼‍🤝‍👨🏻 I’m looking to collaborate on Basic Web Development Projects.
 - 📩 How to reach me: You can DM me on [Instagram](https://www.instagram.com/aman__sandhu09) or you can Email me at amansandhu2718@gmail.com .
 
 <br />
