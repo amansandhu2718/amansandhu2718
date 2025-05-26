@@ -36,7 +36,7 @@ I’m always up for connecting with fellow developers, artists, and creators. Go
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/77589604/137649129-fd62b10d-4b77-4b07-8b66-f6ccdc8b97f4.png](https://www.cocos.com/_nuxt/img/logo.b924db5.png)" height="60" width="60"/>
+  <img src="https://www.cocos.com/_nuxt/img/logo.b924db5.png" height="60" width="60"/>
  <img src="https://user-images.githubusercontent.com/77589604/137648940-4e961176-46f2-424c-8075-d49f0f0606e8.png" height="60" width="60"/> 
 <img src="https://user-images.githubusercontent.com/77589604/137648947-37a9d2af-c85d-44aa-a62a-2e7128eb2749.png" height="60" width="60"/> 
 <img src="https://user-images.githubusercontent.com/77589604/137648662-59ea5ea0-8444-4f6c-9a58-6619a8a9beea.png" height="60" width="60"/> 
