@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Game Developer from India ❤ , Welcome to My Dev Playground! 🚀</h3><br>
 
-Hey there! I’m Amandeep Singh, a game developer with a passion for crafting exciting worlds and memorable gaming experiences.
+Hey there! I’m Amandeep Singh, a game developer with a passion for crafting exciting worlds and memorable gaming experiences in typescript and c#.
 
 
 ✨ What I Do:
@@ -81,3 +81,4 @@ Connect with me:
 
 
 </div>
+
